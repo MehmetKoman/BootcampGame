@@ -23,9 +23,9 @@ Dark Night
 ## Ürün Özellikleri
 
 - Third Person Shooter deneyimi
-- Gerçekçi ve dataylı grafikler
+- Gerçekçi ve detaylı grafikler
 - Korku ve gerilim
-- Farklı yetenek deneyimler
+- Farklı yetenek deneyimleri
 - Görev bazlı hikaye
 
 ## Hedef Kitle
@@ -43,7 +43,7 @@ Dark Night
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint İçinde tamamlanması tahmin edilen puan**: 140 puan
+- **Sprint İçinde tamamlanması tahmin edilen puan**: 210 puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 210 puan ile başlaması gerektiğine karar verildi.
 
@@ -53,8 +53,10 @@ Dark Night
 
 
 
-- **Sprint board update**: Sprint board screenshotları:
-![backlog1](https://user-images.githubusercontent.com/104525151/167482641-e7b71390-2a36-42b9-a77c-8e92d0526247.jpg)
+- **Sprint board update**: Sprint board screenshotları: 
+ Sprint 1
+![image](https://user-images.githubusercontent.com/104525151/169687837-6fedf8fe-8f76-4e02-95fc-86ac13668af8.png)
+
 
 
 
@@ -69,5 +71,34 @@ Dark Night
 
 - **Sprint Retrospective:**
   Game Design için daha hızlı olunmasına karar verilmiştir. 
+
+- **Diğer Notlar**: Daily Scrum Screenshots, 'Daily Scrum' başlığı altındaki dosyaya eklenmiştir.
+
+# Sprint 2
+
+- **Sprint Notları**: Yeni User Story'ler eklenmiştir. Eklenen User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint İçinde tamamlanması tahmin edilen puan**: 160 puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 160 puan ile devam etmesine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
+
+- **Daily Scrum**: Daily Scrum toplantılarının daha düzgün olması için Discord ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+
+
+- **Sprint board update**: Sprint board screenshotları:
+
+
+
+
+- **Ürün Durumu**: Ekran Görüntüleri: 
+
+
+- **Sprint Review**: 
+- Sprint Review katılımcıları: Mehmet Koman, Asude Peker, Elif Türk, Selin Su Demirkıran, Fikri Tepretmez
+
+- **Sprint Retrospective:**
+ 
 
 - **Diğer Notlar**: Daily Scrum Screenshots, 'Daily Scrum' başlığı altındaki dosyaya eklenmiştir.

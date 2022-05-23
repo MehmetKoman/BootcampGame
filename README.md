@@ -101,7 +101,7 @@ Dark Night
 
 
 
-- **Sprint Review**: 
+- **Sprint Review**: Projedeki mekaniklerin ateş etme üstüne kurulması tartışıldı ancak 3. sirint'te kararlaştırılacak. 
   Sprint Review katılımcıları: Mehmet Koman, Asude Peker, Elif Türk, Selin Su Demirkıran, Fikri Tepretmez
 
 - **Sprint Retrospective:**

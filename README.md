@@ -84,7 +84,7 @@ Dark Night
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
 
-- **Daily Scrum**: Daily Scrum toplantılarının daha düzgün olması için Discord ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: 
+- **Daily Scrum**: Daily Scrum toplantılarının daha düzgün olması için Discord ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: https://docs.google.com/document/d/1QCb0NN8ODwconnhXKh23ypuYsGi7AaJuN8RaP-cI9cg/edit
 
 
 - **Sprint board update**: Sprint board screenshotları:
@@ -94,12 +94,17 @@ Dark Night
 
 
 - **Ürün Durumu**: Ekran Görüntüleri: 
+- ![image](https://user-images.githubusercontent.com/105238418/169903489-4073758c-a319-4c1f-8db6-032f25649c17.png)
+- ![image](https://user-images.githubusercontent.com/105238418/169903583-76e8c0ee-db29-4fac-a29f-a49dbe5ad5e4.png)
+- ![image](https://user-images.githubusercontent.com/105238418/169903788-38b59bec-943f-4136-8327-fb567cd6f88b.png)
+
+
 
 
 - **Sprint Review**: 
 - Sprint Review katılımcıları: Mehmet Koman, Asude Peker, Elif Türk, Selin Su Demirkıran, Fikri Tepretmez
 
 - **Sprint Retrospective:**
- 
+- Oyunun geri kalan işlerinin hep birlikte hızlıca bitirilmesine karar verilmiştir.  
 
 - **Diğer Notlar**: Daily Scrum Screenshots, 'Daily Scrum' başlığı altındaki dosyaya eklenmiştir.

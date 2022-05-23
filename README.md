@@ -78,9 +78,9 @@ Dark Night
 
 - **Sprint Notları**: Yeni User Story'ler eklenmiştir. Eklenen User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint İçinde tamamlanması tahmin edilen puan**: 160 puan
+- **Sprint İçinde tamamlanması tahmin edilen puan**: 90 puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 160 puan ile devam etmesine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 90 puan ile devam etmesine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
 
@@ -88,6 +88,7 @@ Dark Night
 
 
 - **Sprint board update**: Sprint board screenshotları:
+![Sprint 2 Backlog](https://user-images.githubusercontent.com/104525151/169885263-4346b75d-4754-4699-ab71-3eff3b3f1ba3.jpg)
 
 
 

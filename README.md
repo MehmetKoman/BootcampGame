@@ -102,9 +102,9 @@ Dark Night
 
 
 - **Sprint Review**: 
-- Sprint Review katılımcıları: Mehmet Koman, Asude Peker, Elif Türk, Selin Su Demirkıran, Fikri Tepretmez
+  Sprint Review katılımcıları: Mehmet Koman, Asude Peker, Elif Türk, Selin Su Demirkıran, Fikri Tepretmez
 
 - **Sprint Retrospective:**
-- Oyunun geri kalan işlerinin hep birlikte hızlıca bitirilmesine karar verilmiştir.  
+   Oyunun geri kalan işlerinin hep birlikte hızlıca bitirilmesine karar verilmiştir.  
 
 - **Diğer Notlar**: Daily Scrum Screenshots, 'Daily Scrum' başlığı altındaki dosyaya eklenmiştir.

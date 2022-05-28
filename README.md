@@ -84,7 +84,8 @@ Dark Night
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
 
-- **Daily Scrum**: Daily Scrum toplantılarının daha düzgün olması için Discord ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: https://docs.google.com/document/d/1QCb0NN8ODwconnhXKh23ypuYsGi7AaJuN8RaP-cI9cg/edit
+- **Daily Scrum**: Daily Scrum toplantılarının daha düzgün olması için Discord ve WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır: [Daily Scrum Sprint 2.docx](https://github.com/MehmetKoman/BootcampGame/files/8789347/Daily.Scrum.Sprint.2.docx)
+
 
 
 - **Sprint board update**: Sprint board screenshotları:

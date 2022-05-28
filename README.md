@@ -76,13 +76,13 @@ Dark Night
 
 
 
-# Sprint 3
+# Sprint 2
 
 - **Sprint Notları**: Yeni User Story'ler eklenmiştir. Eklenen User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint İçinde tamamlanması tahmin edilen puan**: 200 puan
+- **Sprint İçinde tamamlanması tahmin edilen puan**: 90 puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in 200 puan ile devam etmesine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 90 puan ile devam etmesine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
 
@@ -111,13 +111,13 @@ Dark Night
 
 - **Diğer Notlar**: Daily Scrum Screenshots, 'Daily Scrum' başlığı altındaki dosyaya eklenmiştir.
 
-# Sprint 1
+# Sprint 3
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint İçinde tamamlanması tahmin edilen puan**: 210 puan
+- **Sprint İçinde tamamlanması tahmin edilen puan**: 200 puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 210 puan ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 600 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in 200 puan ile başlaması gerektiğine karar verildi.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır.
 
@@ -126,22 +126,17 @@ Dark Night
 
 
 - **Sprint board update**: Sprint board screenshotları: 
- Sprint 1
-![image](https://user-images.githubusercontent.com/104525151/169687837-6fedf8fe-8f76-4e02-95fc-86ac13668af8.png)
 
 
 
-
-- **Ürün Durumu**: Ekran Görüntüleri: ![image](https://user-images.githubusercontent.com/104525151/167484615-324e04e1-c455-4612-a8b9-ca3e4fcd8ae5.png)
-![image](https://user-images.githubusercontent.com/104525151/167484653-b4bfe9c6-2c94-4672-b685-ab85f8ae68e8.png)
-![image](https://user-images.githubusercontent.com/104525151/167484684-c4e81654-db09-4037-8f8e-dc105c6b2ff9.png)
-![image](https://user-images.githubusercontent.com/104525151/167484716-666ae042-3988-4af9-9fb1-51e8a4287f87.png)
+- **Ürün Durumu**: Ekran Görüntüleri:
 
 
-- **Sprint Review**: Projenin HDRP seviyesine taşınmasına karar verildi. İlk sprint'e yetişmeyeceği için 2. sprint'te bu işlem yapılacak. 
-- Sprint Review katılımcıları: Mehmet Koman, Asude Peker, Elif Türk, Selin Su Demirkıran, Fikri Tepretmez
+
+- **Sprint Review**: 
+
 
 - **Sprint Retrospective:**
-  Game Design için daha hızlı olunmasına karar verilmiştir. 
+  
 
-- **Diğer Notlar**: Daily Scrum Screenshots, 'Daily Scrum' başlığı altındaki dosyaya eklenmiştir.
+- **Diğer Notlar**: 
